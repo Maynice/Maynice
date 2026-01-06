@@ -1,3 +1,3 @@
-- I’m @Maynice
--Novice coder!  
+Front-end Engineer
 
+Nuxt, Vue, Vite, React, Tailwind and Swift
